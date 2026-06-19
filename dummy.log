@@ -1,0 +1,8 @@
+INFO: Server started successfully
+INFO: Connect to database
+ERROR: Disk space running low
+INFO: Backup completed
+ERROR: Memory usage critical
+INFO: CPU load normal
+ERROR: Network timeout occurred
+INFO: Service restarted
